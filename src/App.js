@@ -4,20 +4,32 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="MainContent">
+        <img className="MainImg" src={require("./imgs/houses.png")} width="65%"/>
+        <div className="Search">
+          <div className="TextField" contenteditable="true" placeholder="Search A Location..."></div>
+        </div>
+      </div>
+      <div className="Feed">
+        <div className="FeedItem">
+          <img src={require("./imgs/party.png")} className="FeedImg"/>
+          <div className="FeedText">
+            Book Your Viewing Today
+          </div>
+        </div>
+        <div className="FeedItem">
+          <img src={require("./imgs/neighbourhood.png")} className="FeedImg"/>
+          <div className="FeedText">
+            Find What's Right for You
+          </div>
+        </div>
+        <div className="FeedItem">
+          <img src={require("./imgs/computer.png")} className="FeedImg"/>
+          <div className="FeedText">
+            Get Your Estimate Today
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
