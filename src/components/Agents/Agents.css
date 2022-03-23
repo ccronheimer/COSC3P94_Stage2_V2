@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.agents-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+    align-items: center;
+   max-width: 1080px;
+   margin-top: 40px;
+    
+  
+}
+
+/* this is agent card */
+.agent {
+
+    margin: 20px;
+    border: solid 1px rgb(150, 150, 150);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: linear .1s;
+    max-width: 300px;
+}
+
+.agent:hover {
+    transform: scale(1.05);
+}
+.name {
+    padding: 2px 10px;
+
+}
+.description {
+    padding: 2px 10px;
+
+}

@@ -1,0 +1,80 @@
+.Container {
+  margin: auto;
+}
+
+.Header-top {
+  background-color: #ff9a02;
+  display: flex;
+  padding: 16px 40px 16px 40px;
+  justify-content: space-between;
+  margin-left: auto;
+  max-width: auto;
+  
+}
+.Title {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  justify-content: flex-start;
+}
+
+.Header-top-right {
+  display: flex;
+  justify-content: space-evenly;
+
+  width: 250px;
+}
+.button {
+  padding-left: 14px;
+  padding-right: 14px;
+  font-size: 14px;
+  background-color: #d37f00;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+  border: solid 1px #79797928;
+  transition-duration: 0.2s;
+
+}
+.button:hover {
+    background-color: #e28f11; /* Green */
+    color: white;
+    transform: scale(1.1);
+  }
+.Toolbox {
+  display: flex;
+  border-bottom: 1px solid;
+  justify-content: center;
+  text-decoration: none;
+  padding: 16px;
+  /* border-color: ; */
+}
+
+.Dir {
+  display: flex;
+  justify-content: space-evenly;
+  flex: 1;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+}
+
+.Link {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  box-shadow: inset 0 0 0 0 #ff9a02;
+  margin: 0 -0.25rem;
+  padding: 0 0.25rem;
+}
+
+.Link:hover {
+  box-shadow: inset 100px 0 0 0 #ff9a02;
+  color: white;
+}
+
+li {
+}

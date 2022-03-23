@@ -1,15 +1,12 @@
 import React from "react";
 
-function About() {
+const About = () => {
   return (
     <div className="about">
       <div className="container">
         <div>
           <div>
-            <img
-              src="http://placehold.it/900x400"
-              alt=""
-            />
+            <img src="http://placehold.it/900x400" alt="" />
           </div>
           <div>
             <h1>About</h1>
@@ -24,6 +21,6 @@ function About() {
       </div>
     </div>
   );
-}
+};
 
 export default About;
