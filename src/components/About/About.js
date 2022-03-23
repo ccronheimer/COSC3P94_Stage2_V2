@@ -1,5 +1,4 @@
 import React from "react";
-
 const About = () => {
   return (
     <div className="about">
@@ -21,7 +20,6 @@ const About = () => {
             <p>
             Customer service built on a foundation of drive, experience and education  is the cornerstone of Fake Estate success. Backed by the ability to deliver,</p><p> remains as important as ever.
             </p>
-            <Footer />
           </div>
         </div>
       </div>

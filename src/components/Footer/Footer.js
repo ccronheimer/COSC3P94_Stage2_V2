@@ -5,8 +5,8 @@ function Footer() {
   return (
     <div className="footer">
         <div className="container">
-          <p>
-            Copyright &copy; Your Website 2020
+          <p>🇨
+            Copyright &copy; Fake Estate 2022 🏡 🇨🇦
           </p>
         </div>
     </div>

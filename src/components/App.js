@@ -6,7 +6,7 @@ import Agents from "./Agents/Agents";
 import Calculator from "./Calculator/Calculator";
 import About from "./About/About";
 import Home from "./Home/Home";
-
+import Footer from "./Footer/Footer";
 function App() {
   return (
     <div className="App">
@@ -20,6 +20,7 @@ function App() {
 
         <Route path="/COSC3P94_Stage2/about" element={<About />} />
       </Routes>
+      <Footer/>
     </div>
   );
 }
