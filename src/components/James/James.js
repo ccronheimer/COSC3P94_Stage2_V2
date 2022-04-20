@@ -27,7 +27,7 @@ const James = () => {
             </div>
 
             <div>
-            <img className="property" src={require("../../assets/House6.jpg")}/>
+            <img className="property" src={require("../../assets/House7.jpg")}/>
             <ul><h4>88 Clark Road</h4></ul>
             <ul>$524,000</ul>
             <ul>2 Bed, 2 Bath</ul>

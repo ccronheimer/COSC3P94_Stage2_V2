@@ -24,6 +24,8 @@
     overflow: hidden;
     transition: linear .1s;
     max-width: 300px;
+    text-decoration: none;
+    color: black;
 }
 
 .agent:hover {
