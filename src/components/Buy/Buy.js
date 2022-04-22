@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Buy.css";
 export const Buy = () => {
   return (
@@ -7,8 +8,8 @@ export const Buy = () => {
       <div className="search">
           Vancouver, BC
       </div>
-      <div className="searchItem">
-          <img src={require("../../assets/woods.png")} className="searchImg" width="225px" height="150px"/>
+      <Link className="searchItem" to="/COSC3P94_Stage2/house21">
+          <img src={require("../../assets/House21.jpg")} className="searchImg" width="225px" height="150px"/>
           <div className="totPrice">
               <div className="price">
                   $
@@ -17,7 +18,7 @@ export const Buy = () => {
                   $
               </div>
           </div>
-      </div>
+      </Link>
       <div className="searchItemTall">
           <img src={require("../../assets/apartment.png")} className="searchImgTall" width="133px" height="200px"/>
           <div className="totPriceTall">
@@ -29,8 +30,8 @@ export const Buy = () => {
               </div>
           </div>
       </div>
-      <div className="searchItem">
-          <img src={require("../../assets/cottage.png")} className="searchImg" width="225px" height="150px"/>
+      <Link className="searchItem" to="/COSC3P94_Stage2/house11">
+          <img src={require("../../assets/House11.jpg")} className="searchImg" width="225px" height="150px"/>
           <div className="totPrice">
               <div className="price">
                   $
@@ -42,7 +43,7 @@ export const Buy = () => {
                   $
               </div>
           </div>
-      </div>
+        </Link>
     </div>
     <div className="main">
       <img src={require("../../assets/canMap.png")} className="mainImg"/>
