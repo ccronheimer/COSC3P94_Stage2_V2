@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/COSC3P94_Stage2_V2/static/css/main.59c6a44a.css",
+    "main.js": "/COSC3P94_Stage2_V2/static/js/main.ef300b51.js",
+    "static/media/houses.png": "/COSC3P94_Stage2_V2/static/media/houses.591a0e643549f1c1c910.png",
+    "static/media/House6.jpg": "/COSC3P94_Stage2_V2/static/media/House6.65002840b455588ba2cf.jpg",
+    "static/media/neighbourhood.png": "/COSC3P94_Stage2_V2/static/media/neighbourhood.aac6f7335515a329ed79.png",
+    "static/media/party.png": "/COSC3P94_Stage2_V2/static/media/party.959b448ec57e8011a901.png",
+    "static/media/computer.png": "/COSC3P94_Stage2_V2/static/media/computer.311f573872c756b10b62.png",
+    "static/media/House23.jpg": "/COSC3P94_Stage2_V2/static/media/House23.f5a6b78d1f9d0829cdae.jpg",
+    "static/media/header.jpeg": "/COSC3P94_Stage2_V2/static/media/header.983d8842b810a50b6e8d.jpeg",
+    "static/media/House18.jpg": "/COSC3P94_Stage2_V2/static/media/House18.225d67fb807f23c2824a.jpg",
+    "static/media/House10.jpg": "/COSC3P94_Stage2_V2/static/media/House10.348c5342383892111437.jpg",
+    "static/media/House16.jpg": "/COSC3P94_Stage2_V2/static/media/House16.5cfdbe87c50feee1e594.jpg",
+    "static/media/House12.jpg": "/COSC3P94_Stage2_V2/static/media/House12.86f42b72662ff6bded70.jpg",
+    "static/media/House7.jpg": "/COSC3P94_Stage2_V2/static/media/House7.eb4451c6f312f3579bd7.jpg",
+    "static/media/House11.jpg": "/COSC3P94_Stage2_V2/static/media/House11.0a3f7ecf948cbbbd7bae.jpg",
+    "static/media/house17.jpg": "/COSC3P94_Stage2_V2/static/media/house17.0ace00ef0a787b1bd6fe.jpg",
+    "static/media/canMap.png": "/COSC3P94_Stage2_V2/static/media/canMap.9e986b8b22991ccc38da.png",
+    "static/media/House8.jpg": "/COSC3P94_Stage2_V2/static/media/House8.ef43777e393d4c564729.jpg",
+    "static/media/House13.jpg": "/COSC3P94_Stage2_V2/static/media/House13.71cf22f57260b6782cb7.jpg",
+    "static/media/House19.jpg": "/COSC3P94_Stage2_V2/static/media/House19.a50528e36345a441d903.jpg",
+    "static/media/House22.jpg": "/COSC3P94_Stage2_V2/static/media/House22.4491843e2f344f384dc7.jpg",
+    "static/media/apartment.png": "/COSC3P94_Stage2_V2/static/media/apartment.0b3726f4bd18b8e8c673.png",
+    "static/media/House21.jpg": "/COSC3P94_Stage2_V2/static/media/House21.a3b121e8b8f82846d442.jpg",
+    "static/media/House14.jpg": "/COSC3P94_Stage2_V2/static/media/House14.0bd0912d17afab56fbc4.jpg",
+    "static/media/House15.jpg": "/COSC3P94_Stage2_V2/static/media/House15.fee6a92fd93ec212e4aa.jpg",
+    "static/media/House9.jpg": "/COSC3P94_Stage2_V2/static/media/House9.ffd78d778c126d5c8309.jpg",
+    "static/media/House20.jpg": "/COSC3P94_Stage2_V2/static/media/House20.2b723b7bde21794a5061.jpg",
+    "index.html": "/COSC3P94_Stage2_V2/index.html",
+    "main.59c6a44a.css.map": "/COSC3P94_Stage2_V2/static/css/main.59c6a44a.css.map",
+    "main.ef300b51.js.map": "/COSC3P94_Stage2_V2/static/js/main.ef300b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59c6a44a.css",
+    "static/js/main.ef300b51.js"
+  ]
+}

@@ -1,0 +1,151 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*! exports provided: name, version, description, repository, main, scripts, files, author, license, devDependencies, dependencies, default */
+
+/*! no static exports found */
+
+/*!*********************!*\
+        !*** ./src/Util.js ***!
+        \*********************/
+
+/*!**********************!*\
+        !*** ./package.json ***!
+        \**********************/
+
+/*!***********************!*\
+        !*** ./src/Switch.js ***!
+        \***********************/
+
+/*!************************!*\
+        !*** ./src/Switch.css ***!
+        \************************/
+
+/*!**************************!*\
+        !*** ./src/IconInput.js ***!
+        \**************************/
+
+/*!*****************************!*\
+        !*** ./src/InputWrapper.js ***!
+        \*****************************/
+
+/*!******************************!*\
+        !*** ./src/DefaultStyle.css ***!
+        \******************************/
+
+/*!********************************!*\
+        !*** ./src/PaymentSchedule.js ***!
+        \********************************/
+
+/*!***********************************!*\
+        !*** ./src/MortgageCalculator.js ***!
+        \***********************************/
+
+/*!*************************************!*\
+        !*** ./node_modules/react/index.js ***!
+        \*************************************/
+
+/*!*****************************************!*\
+        !*** multi ./src/MortgageCalculator.js ***!
+        \*****************************************/
+
+/*!*******************************************!*\
+        !*** ./node_modules/mortgage-js/index.js ***!
+        \*******************************************/
+
+/*!*********************************************!*\
+        !*** ./node_modules/object-assign/index.js ***!
+        \*********************************************/
+
+/*!***********************************************!*\
+        !*** ./node_modules/style-loader/lib/urls.js ***!
+        \***********************************************/
+
+/*!*************************************************!*\
+        !*** ./node_modules/css-loader/lib/css-base.js ***!
+        \*************************************************/
+
+/*!**************************************************!*\
+        !*** ./node_modules/css-loader!./src/Switch.css ***!
+        \**************************************************/
+
+/*!***************************************************!*\
+        !*** ./node_modules/prop-types/checkPropTypes.js ***!
+        \***************************************************/
+
+/*!****************************************************!*\
+        !*** ./node_modules/style-loader/lib/addStyles.js ***!
+        \****************************************************/
+
+/*!*****************************************************!*\
+        !*** ./node_modules/react/cjs/react.development.js ***!
+        \*****************************************************/
+
+/*!********************************************************!*\
+        !*** ./node_modules/css-loader!./src/DefaultStyle.css ***!
+        \********************************************************/
+
+/*!*************************************************************!*\
+        !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+        \*************************************************************/
+
+/**
+ * React Router DOM v6.2.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.2.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
