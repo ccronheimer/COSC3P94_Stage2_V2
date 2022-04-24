@@ -5,12 +5,12 @@ function Header() {
   return (
     <div className="Container">
       <div className="Header-top">
-        <Link className="Title" to="COSC3P94_Stage2/">
+        <Link className="Title" to="COSC3P94_Stage2_V2/">
           Fake Estate
         </Link>
         <div className="Header-top-right">
         <div className="button">
-        <Link to="/COSC3P94_Stage2/signin">
+        <Link to="/COSC3P94_Stage2_v2/signin">
             Sign in 
           </Link>
         </div>
@@ -22,23 +22,23 @@ function Header() {
 
       <div className="Toolbox">
         <div className="Dir">
-          <Link className="Link" to="/COSC3P94_Stage2/buy">
+          <Link className="Link" to="/COSC3P94_Stage2_V2/buy">
             Buy
           </Link>
 
-          <Link className="Link" to="/COSC3P94_Stage2/sell">
+          <Link className="Link" to="/COSC3P94_Stage2_V2/sell">
             Sell
           </Link>
 
-          <Link className="Link" to="/COSC3P94_Stage2/agents">
+          <Link className="Link" to="/COSC3P94_Stage2_V2/agents">
             Agents
           </Link>
 
-          <Link className="Link" to="/COSC3P94_Stage2/calculator">
+          <Link className="Link" to="/COSC3P94_Stage2_V2/calculator">
             Calculator
           </Link>
 
-          <Link className="Link" to="/COSC3P94_Stage2/about">
+          <Link className="Link" to="/COSC3P94_Stage2_V2/about">
             About
           </Link>
         </div>
