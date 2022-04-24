@@ -39,11 +39,19 @@ export const Buy = () => {
               <div className="price">
                   $
               </div>
+          </div>
+        </Link>
+       <div className="searchItemTall">
+          <img src={require("../../assets/House24.jpg")} className="searchImgTall" width="133px" height="200px"/>
+          <div className="totPriceTall">
               <div className="price">
                   $
               </div>
-          </div>
-        </Link>
+              <div className="price">
+                  $
+              </div>
+            </div>
+        </div>
     </div>
     <div className="main">
       <img src={require("../../assets/canMap.png")} className="mainImg"/>
