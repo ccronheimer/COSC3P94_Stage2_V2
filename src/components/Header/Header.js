@@ -10,7 +10,7 @@ function Header() {
         </Link>
         <div className="Header-top-right">
         <div className="button">
-        <Link to="/COSC3P94_Stage2_v2/signin">
+        <Link to="/COSC3P94_Stage2_V2/signin">
             Sign in 
           </Link>
         </div>
