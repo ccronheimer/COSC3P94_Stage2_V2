@@ -9,7 +9,12 @@ function Header() {
           Fake Estate
         </Link>
         <div className="Header-top-right">
-        <button className="button">Sign-In</button>
+        <div className="button">
+        <Link to="/COSC3P94_Stage2/signin">
+            Sign in 
+          </Link>
+        </div>
+        
           <button className="button">CAD</button>
           <button className="button">FRE</button>
         </div>
