@@ -17,7 +17,7 @@
 
 /* this is agent card */
 .agent {
-
+    background-color: white;
     margin: 20px;
     border: solid 1px rgb(150, 150, 150);
     border-radius: 10px;
