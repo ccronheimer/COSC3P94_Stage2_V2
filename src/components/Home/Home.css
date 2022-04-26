@@ -1,6 +1,6 @@
 
 .MainContent {
-    opacity: 80%;
+    opacity: 100%;
     /* margin: auto;
     /* align-items: center; */
     /* justify-content: center; */
@@ -67,13 +67,23 @@
     
   }
   
-  .FeedImg {
-    /* max-height: 250px; */
-  }
+
   
   .FeedText {
     /* border: 1px solid; */
     /* width: 25%; */
+    background-color: #FFFFFF;
     font-size: 32px;
-    color: rgb(110, 110, 110);
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+
+  .Bgimg {
+    background-image: 
+    url(
+  "../../assets/FakeestateBG.png");
+    background-size: auto;
+    height: 120vh;
+    background-repeat:repeat; 
+    margin-top: 0px;
   }
