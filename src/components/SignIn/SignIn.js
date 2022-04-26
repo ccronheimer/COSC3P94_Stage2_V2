@@ -3,6 +3,7 @@ import "./SignIn.css"
 
 const SignIn = () => {
     return (
+        <div className="Bgimg">
         <div className="auth-wrapper">
         <div className="auth-inner">
         <form>
@@ -44,6 +45,7 @@ const SignIn = () => {
             Forgot <a href="#">password?</a>
           </p>
         </form>
+        </div>
         </div>
         </div>
       )
