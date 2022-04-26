@@ -2,3 +2,27 @@
     text-align: center;
 
 }
+
+.background {
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.text {
+    text-align: left;
+}
+
+.Bgimg2 {
+    background-image: 
+    url(
+  "../../assets/FakeestateBG2.png");
+    background-size: fit;
+    height: 120vh;
+    background-repeat:repeat; 
+    margin-top: 0px;
+  }
