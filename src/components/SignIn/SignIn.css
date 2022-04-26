@@ -47,3 +47,13 @@
   .forgot-password a {
     color: #167bff;
   }
+
+.Bgimg2 {
+    background-image: 
+    url(
+  "../../assets/FakeestateBG2.png");
+    background-size: fit;
+    height: 120vh;
+    background-repeat:repeat; 
+    margin-top: 0px;
+  }
