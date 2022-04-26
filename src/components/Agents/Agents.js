@@ -15,11 +15,11 @@ const Agents = () => {
             width="300px"
           />
             <h2 className="name">Isabelle R. Germany</h2>
-          <p className="description">
+          <div className="description">
             <ul>Toronto, ON</ul>
             <ul>647-507-8731</ul>
             <ul>IsabelleGermany@remax.ca</ul>
-          </p>
+          </div>
         </Link>
 
         <Link className="agent" to="/COSC3P94_Stage2/James">
@@ -30,11 +30,11 @@ const Agents = () => {
             width="300px"
           />
             <h2 className="name">James M. Hattaway</h2>
-          <p className="description">
+          <div className="description">
             <ul>Hamilton, ON</ul>
             <ul>905-381-6423</ul>
             <ul>JHattaway@FakeEstate.ca</ul>
-            </p>   
+            </div>   
         </Link>
 
         <Link className="agent" to="/COSC3P94_Stage2/Brice">
@@ -45,11 +45,11 @@ const Agents = () => {
             width="300px"
           /> 
           <h2 className="name">Brice L. Bolin</h2>
-          <p className="description">
+          <div className="description">
             <ul>Toronto, ON</ul>
             <ul>647-413-8645</ul>
             <ul>BBolin@FakeEstate.ca</ul>
-          </p>
+          </div>
         </Link>
 
         <Link className="agent" to="/COSC3P94_Stage2/Lana">
@@ -60,11 +60,11 @@ const Agents = () => {
             width="300px"
           />
           <h2 className="name">Lana S. Martin</h2>
-          <p className="description">
+          <div className="description">
             <ul>Mississauga, ON</ul>
             <ul>905-821-4268</ul>
             <ul>LanaMartin@FakeEstate.ca</ul>
-          </p>
+          </div>
         </Link>
 
         <Link className="agent" to="/COSC3P94_Stage2/John">
@@ -75,11 +75,11 @@ const Agents = () => {
             width="300px"
           />
             <h2 className="name">John R. Waggoner</h2>
-          <p className="description">
+          <div className="description">
             <ul>Etobicoke, ON</ul>
             <ul>416-620-4551</ul>
             <ul>JWaggoner@FakeEstate.ca</ul>
-          </p>
+          </div>
         </Link>
 
         <Link className="agent" to="/COSC3P94_Stage2/Michelle">
@@ -90,11 +90,11 @@ const Agents = () => {
             width="300px"
           />
             <h2 className="name">Michelle M. To</h2>
-          <p className="description">
+          <div className="description">
             <ul>Toronto, ON</ul>
             <ul>416-427-0646</ul>
             <ul>MichelleTo@FakeEstate.ca</ul>
-          </p>
+          </div>
         </Link>
 
       </div>

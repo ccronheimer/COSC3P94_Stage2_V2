@@ -16,7 +16,7 @@ const Home = () => {
         <div className="Search">
           <div
             className="TextField"
-            contenteditable="true"
+            contentEditable="true"
             placeholder="Search A Location..."
           ></div>
         </div>
