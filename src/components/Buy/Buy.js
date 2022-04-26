@@ -8,7 +8,7 @@ export const Buy = () => {
       <div className="search">
           Vancouver, BC
       </div>
-      <Link className="searchItem" to="/COSC3P94_Stage2/house21">
+      <Link className="searchItem" to="/COSC3P94_Stage2_V2/house21">
           <img src={require("../../assets/House21.jpg")} className="searchImg" width="225px" height="150px"/>
           <div className="totPrice">
               <div className="price">
@@ -30,7 +30,7 @@ export const Buy = () => {
               </div>
           </div>
       </div>
-      <Link className="searchItem" to="/COSC3P94_Stage2/house11">
+      <Link className="searchItem" to="/COSC3P94_Stage2_V2/house11">
           <img src={require("../../assets/House11.jpg")} className="searchImg" width="225px" height="150px"/>
           <div className="totPrice">
               <div className="price">

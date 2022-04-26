@@ -7,7 +7,7 @@ const Agents = () => {
     <div className="Bgimg2">
     <div className="container">
       <div className="agents-container">
-        <Link className="agent" to="/COSC3P94_Stage2/Isabelle">
+        <Link className="agent" to="/COSC3P94_Stage2_V2/Isabelle">
           <img
           
             src="https://121clicks.com/wp-content/uploads/2021/09/how_to_capture_corporate_headshots_01.jpeg"
@@ -22,7 +22,7 @@ const Agents = () => {
           </div>
         </Link>
 
-        <Link className="agent" to="/COSC3P94_Stage2/James">
+        <Link className="agent" to="/COSC3P94_Stage2_V2/James">
           <img
            
             src="https://i.pinimg.com/originals/06/27/60/0627602bb0cc87537550581b3603318e.jpg"
@@ -37,7 +37,7 @@ const Agents = () => {
             </div>   
         </Link>
 
-        <Link className="agent" to="/COSC3P94_Stage2/Brice">
+        <Link className="agent" to="/COSC3P94_Stage2_V2/Brice">
           <img
           
             src="https://www.thesocialmediahat.com/wp-content/uploads/2019/08/Real-Estate-Agent-Social-Media.jpg"
@@ -52,7 +52,7 @@ const Agents = () => {
           </div>
         </Link>
 
-        <Link className="agent" to="/COSC3P94_Stage2/Lana">
+        <Link className="agent" to="/COSC3P94_Stage2_V2/Lana">
           <img
            
             src="https://www.thewarrengroup.com/wp-content/uploads/2020/10/iStock-1209149920.jpg"
@@ -67,7 +67,7 @@ const Agents = () => {
           </div>
         </Link>
 
-        <Link className="agent" to="/COSC3P94_Stage2/John">
+        <Link className="agent" to="/COSC3P94_Stage2_V2/John">
           <img
           
             src="https://thumbs.dreamstime.com/b/male-real-estate-agent-indoors-115101372.jpg"
@@ -82,7 +82,7 @@ const Agents = () => {
           </div>
         </Link>
 
-        <Link className="agent" to="/COSC3P94_Stage2/Michelle">
+        <Link className="agent" to="/COSC3P94_Stage2_V2/Michelle">
           <img
 
             src="https://media.istockphoto.com/photos/female-real-estate-agent-holding-sold-sign-outside-home-picture-id182434280?k=20&m=182434280&s=612x612&w=0&h=qvX1_RsIo9VAQZk-zeNYCwTQttTS6qcTqhowWnDLhlo="
