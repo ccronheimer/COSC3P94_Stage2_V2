@@ -78,5 +78,22 @@
   color: white;
 }
 
-li {
+.buttonS {
+  padding-left: 14px;
+  padding-right: 14px;
+  font-size: 14px;
+  background-color: #d37f00;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+  border: solid 1px #79797928;
+  transition-duration: 0.2s;
+  margin: auto;
+  padding: 7px;
+  
+}
+.buttonS:hover {
+  background-color: #e28f20; /* Green */
+  color: white;
+  transform: scale(1.1);
 }
