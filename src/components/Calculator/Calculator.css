@@ -11,3 +11,17 @@
     width: 400px;
    
 }
+
+.Bgimg {
+    background-image: 
+    url(
+  "../../assets/FakeestateBG.png");
+    background-size: fit;
+    height: 100vh;
+    background-repeat:no-repeat; 
+    
+  }
+
+  .title {
+      padding-top: 20px;
+  }
