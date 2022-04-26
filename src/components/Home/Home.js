@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <>
+    <div className="Bgimg">
       <div className="MainContent">
         <img
           className="MainImg"
@@ -60,6 +61,7 @@ const Home = () => {
         </div>
       </Link>
       
+       </div>
       </div>
     </>
   );
