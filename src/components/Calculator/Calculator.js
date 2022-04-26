@@ -3,7 +3,16 @@ import MortgageCalculator from "mortgage-calculator-react";
 import "./Calculator.css"
 const Calculator = () => {
   return (
-    <div className='container'> <h1>Calculate mortgage</h1><div className='sub-container'><MortgageCalculator/></div>  </div>
+    <div className='Bgimg'>
+    <div className='container'>
+    <div className='title'>
+    <h1>Calculate mortgage</h1>
+    </div>
+    <div className='sub-container'>
+    <MortgageCalculator/>
+    </div>  
+    </div>
+    </div>
   )
 }
 
