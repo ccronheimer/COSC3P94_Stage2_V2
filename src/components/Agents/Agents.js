@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 
 const Agents = () => {
   return (
+    <div className="Bgimg2">
     <div className="container">
       <div className="agents-container">
         <Link className="agent" to="/COSC3P94_Stage2/Isabelle">
@@ -97,6 +98,7 @@ const Agents = () => {
         </Link>
 
       </div>
+     </div>
     </div>
   );
 };
