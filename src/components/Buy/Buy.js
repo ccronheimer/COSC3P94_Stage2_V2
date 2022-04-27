@@ -61,15 +61,15 @@ export const Buy = () => {
           <div className="filterItem">
               Price Range
           </div>
-          <img src={require("../../assets/Group1.png")}/>
+          <img src={require("../../assets/Vector.png")}/>
           <div className="filterItem">
               Bedrooms
           </div>
-          <img src={require("../../assets/Group2.png")}/>
+          <img src={require("../../assets/Vector (3).png")}/>
           <div className="filterItem">
               Bathrooms
           </div>
-          <img src={require("../../assets/Group3.png")}/>
+          <img src={require("../../assets/Vector (2).png")}/>
       </div>
     </div>
   </div>

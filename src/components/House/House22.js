@@ -10,7 +10,7 @@ const House21 = () => {
           <div>
             <h1>For Sale</h1>
             <p>
-            This property is available for sale from our realtor James Hattaway:
+            This property is available for sale from our realtor Isabelle Germany:
             </p>
             <div>
             <img className="property" src={require("../../assets/House22.jpg")}/>
