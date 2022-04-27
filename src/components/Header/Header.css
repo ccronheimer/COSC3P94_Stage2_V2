@@ -35,9 +35,30 @@
   font-weight: bold;
   border: solid 1px #79797928;
   transition-duration: 0.2s;
+  text-decoration: none;
   
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
+.sbutton {
+  padding-left: 14px;
+  padding-right: 14px;
+  font-size: 14px;
+  background-color: #fff;
+  border-radius: 10px;
+  color: #c67801;
+  font-weight: bold;
+  border: solid 1px #79797928;
+  transition-duration: 0.2s;
+  text-decoration: none;
   
-
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
+.button-txt {
+  flex: 1;
 }
 .button:hover {
     background-color: #e28f11; /* Green */

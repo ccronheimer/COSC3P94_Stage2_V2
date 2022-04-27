@@ -20,6 +20,7 @@ import House21 from "./House/House21";
 import House22 from "./House/House22";
 import House23 from "./House/House23";
 import SignIn from "./SignIn/SignIn";
+import SignUp from "./SignUp/SignUp";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -32,6 +33,7 @@ function App() {
         <Route path="/COSC3P94_Stage2_V2/sell" element={<Sell />} />
         <Route path="/COSC3P94_Stage2_V2/agents" element={<Agents />} />
         <Route path="/COSC3P94_Stage2_V2/signin" element={<SignIn/>} />
+        <Route path="/COSC3P94_Stage2_V2/signup" element={<SignUp/>} />
         <Route path="/COSC3P94_Stage2_V2/calculator" element={<Calculator />} />
         <Route path="/COSC3P94_Stage2_V2/about" element={<About />} />
         <Route path="/COSC3P94_Stage2_V2/isabelle" element={<Isabelle />} />
